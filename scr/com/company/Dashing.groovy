@@ -1,3 +1,5 @@
+package com.company
+
 import java.net.URLEncoder
 
 // Put env vars
